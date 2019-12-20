@@ -6,7 +6,7 @@ Easily browse on your Swagger's APIs collection.
 
 1. Place your ```json``` or ```yaml``` files under ```api-repo``` folder;
 2. Launch using npm start;
-3. Got to http://localhost:3000/ and click your API filename to see it in [Swagger UI](https://swagger.io/swagger-ui/);
+3. Go to http://localhost:3000/ and click your API filename to see it in [Swagger UI](https://swagger.io/swagger-ui/);
 
 
 ## Install and run
